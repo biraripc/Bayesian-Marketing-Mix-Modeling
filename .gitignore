@@ -46,9 +46,14 @@ coverage.xml
 *.cover
 *.py,cover
 .hypothesis/
-*.kiro
-*.idea
 .pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
 
 # Translations
 *.mo
