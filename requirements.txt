@@ -1,0 +1,50 @@
+# Core Bayesian modeling and MMM
+pymc-marketing>=0.17.0
+pymc>=5.24.1
+pymc-extras>=0.4.0
+arviz>=0.13.0
+preliz>=0.20.0
+
+# Scientific computing
+numpy>=1.17
+pandas>=1.3.0
+scipy>=1.11.0
+scikit-learn>=1.1.1
+
+# Visualization
+matplotlib>=3.5.1
+seaborn>=0.12.2
+plotly>=5.0.0
+
+# Data handling and utilities
+xarray>=2024.1.0
+xarray-einstats>=0.5.1
+
+# Statistical analysis
+arviz-stats>=0.6.0
+
+# Optimization
+better-optimize>=0.1.5
+
+# Numerical computing
+pytensor>=2.31.3
+numba>=0.62
+llvmlite>=0.45.0
+
+# Utilities
+pyprojroot
+pydantic>=2.1.0
+typing-extensions>=4.1.0
+packaging
+setuptools>=60.0.0
+
+# Jupyter notebook support (optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+
+# Development and testing (optional)
+pytest>=6.0.0
+pytest-cov>=2.10.0
+black>=21.0.0
+flake8>=3.8.0
